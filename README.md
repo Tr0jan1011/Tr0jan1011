@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tr0jan1011
+- 👋 Hi, I’m @Tr0jan
 - 👀 I’m interested in programming , cyber security
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
