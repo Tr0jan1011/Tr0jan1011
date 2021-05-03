@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tr0jan
-- 👀 I’m interested in programming , cyber security
+- 👀 I’m interested in programming , cyber security ,AI and ML
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail at ukrathod003@gmail.com
